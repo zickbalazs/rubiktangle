@@ -1,0 +1,10 @@
+H:\1-13\Asztali Alkalmazások\rubikkocka\rubikkocka\bin\Debug\rubikkocka.exe.config
+H:\1-13\Asztali Alkalmazások\rubikkocka\rubikkocka\bin\Debug\rubikkocka.exe
+H:\1-13\Asztali Alkalmazások\rubikkocka\rubikkocka\bin\Debug\rubikkocka.pdb
+H:\1-13\Asztali Alkalmazások\rubikkocka\rubikkocka\obj\Debug\rubikkocka.csprojAssemblyReference.cache
+H:\1-13\Asztali Alkalmazások\rubikkocka\rubikkocka\obj\Debug\rubikkocka.Form1.resources
+H:\1-13\Asztali Alkalmazások\rubikkocka\rubikkocka\obj\Debug\rubikkocka.Properties.Resources.resources
+H:\1-13\Asztali Alkalmazások\rubikkocka\rubikkocka\obj\Debug\rubikkocka.csproj.GenerateResource.cache
+H:\1-13\Asztali Alkalmazások\rubikkocka\rubikkocka\obj\Debug\rubikkocka.csproj.CoreCompileInputs.cache
+H:\1-13\Asztali Alkalmazások\rubikkocka\rubikkocka\obj\Debug\rubikkocka.exe
+H:\1-13\Asztali Alkalmazások\rubikkocka\rubikkocka\obj\Debug\rubikkocka.pdb
